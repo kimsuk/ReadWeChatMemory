@@ -15,4 +15,4 @@ c#读取本机内存获取微信内存数据
 + 获取wxid、昵称、头像
 + 获取通讯录
 
-![运行截图](/PlainWizard/ReadWeChatMemory/blob/master/demo.png "运行截图")
+![运行截图](demo.png "运行截图")
